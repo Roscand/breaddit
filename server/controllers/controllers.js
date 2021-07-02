@@ -1,0 +1,12 @@
+exports.alert = require('./alertController');
+exports.app = require('./appController');
+exports.auth = require('./authController');
+exports.branch = require('./branchController');
+exports.chat = require('./chatController');
+exports.explore = require('./exploreController');
+exports.feed = require('./feedController');
+exports.moderation = require('./moderationController');
+exports.notification = require('./notificationController');
+exports.post = require('./postController');
+exports.search = require('./searchController');
+exports.user = require('./userController');
